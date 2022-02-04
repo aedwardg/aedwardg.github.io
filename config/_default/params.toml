@@ -18,46 +18,46 @@ enableCodeCopy = false
 showScrollToTop = true
 
 [homepage]
-layout = "profile" # valid options: page, profile, custom
-showRecent = false
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = false
 
 [article]
-showDate = true
-showDateUpdated = false
-showAuthor = true
-showBreadcrumbs = false
-showDraftLabel = true
-showEdit = false
-# editURL = "https://github.com/username/repo/"
-editAppendPath = true
-showHeadingAnchors = true
-showPagination = true
-invertPagination = false
-showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
-showWordCount = true
-sharingLinks = ["twitter", "linkedin", "email"]
-# sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showEdit = false
+  # editURL = "https://github.com/username/repo/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = true
+  sharingLinks = ["twitter", "linkedin", "email"]
+  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-showBreadcrumbs = false
-showSummary = false
-showTableOfContents = false
-groupByYear = true
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = false
+  groupByYear = true
 
 [sitemap]
-excludedKinds = ["taxonomy", "term"]
+  excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-showTermCount = true
+  showTermCount = true
 
 [fathomAnalytics]
-# site = "ABC12345"
-# domain = "llama.yoursite.com"
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
 
 [verification]
-# google = ""
-# bing = ""
-# pinterest = ""
-# yandex = ""
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
