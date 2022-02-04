@@ -1,0 +1,31 @@
+main {
+  /* make footer stick to bottom */
+  flex: 1 0 auto;
+}
+
+-- Chroma Highlight Overrides --
+
+/* Background */
+
+.prose pre {
+  color: var(--color-neutral-700);
+  background-color: var(--color-neutral-50);
+}
+
+/* Background */
+
+.prose .chroma {
+  position: static;
+  border-radius: 0.375rem;
+  --tw-bg-opacity: 1;
+  background-color: rgba(var(--color-neutral-100), var(--tw-bg-opacity));
+  --tw-text-opacity: 1;
+  color: rgba(var(--color-neutral-700), var(--tw-text-opacity));
+}
+
+.dark .prose .chroma {
+  --tw-bg-opacity: 1;
+  background-color: rgba(var(--color-neutral-800), var(--tw-bg-opacity));
+  --tw-text-opacity: 1;
+  color: rgba(var(--color-neutral-200), var(--tw-text-opacity));
+}
