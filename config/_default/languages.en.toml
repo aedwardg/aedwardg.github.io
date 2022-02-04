@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Anthony Garcia"
-  image = "img/avataaars.png"
+  image = "img/avataaars-xs-square.png"
   headline = "Software Engineer"
   bio = "I build software and teach others to do the same."
   links = [
