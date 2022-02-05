@@ -29,3 +29,13 @@ main {
   --tw-text-opacity: 1;
   color: rgba(var(--color-neutral-200), var(--tw-text-opacity));
 }
+
+/* Remove visible backtick when used for inline code */
+
+.prose :where(code):not(:where([class~="not-prose"] *))::before {
+  content: none;
+}
+
+.prose :where(code):not(:where([class~="not-prose"] *))::after {
+  content: none;
+}
