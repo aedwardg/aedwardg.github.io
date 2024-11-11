@@ -330,7 +330,7 @@ implementing keywords by following [the second example][5] in the Mozilla docume
 
 <details>
 <summary><b>Click here to try it live in a REPL</b></summary>
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@elCocodrilo/CleverLiveStrings?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@elCocodrilo/CleverLiveStrings?embed=true"></iframe>
 </details>
 
 [1]: https://en.wikipedia.org/wiki/String_interpolation

@@ -284,7 +284,7 @@ result = [1, 2, 3, 6, 9, 8, 7, 4, 5]
 
 <details>
 <summary><b>Click here to try it live in a REPL! :computer:</b></summary>
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@elCocodrilo/SleekElixirSnail?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@elCocodrilo/SleekElixirSnail?embed=true"></iframe>
 </details>
 
 ## Conclusion
