@@ -12,7 +12,7 @@ title = "Anthony's Data"
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Anthony Garcia"
   image = "img/avataaars-xs-square.png"
   headline = "Software Engineer"
